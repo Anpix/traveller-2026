@@ -1,13 +1,13 @@
 # Attributes - Tavian Dorn
 
-| Atributo      | Valor | MD  | Total |
-| ------------- | ----- | --- | ----- |
-| Força         | 6     | 0   | 6     |
-| Destreza      | 10    | +1  | 11    |
-| Resistência   | 5     | -1  | 4     |
-| Intelecto     | 12    | +2  | 14    |
-| Educação      | 11    | +1  | 12    |
-| Status Social | 7     | 0   | 7     |
+| Atributo      | Valor | MD  |
+| ------------- | ----- | --- |
+| Força         | 6     | 0   |
+| Destreza      | 10    | +1  |
+| Resistência   | 5     | -1  |
+| Intelecto     | 12    | +2  |
+| Educação      | 11    | +1  |
+| Status Social | 7     | 0   |
 
 ## Skills - Perícias
 
