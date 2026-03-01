@@ -29,6 +29,10 @@ MD EDU +3
 | Ciência                    | 1     | Academia         |
 | Subterfúgio                | 0     | Conexão          |
 
+## Treinamentos
+
+- Motor S = 3 semanas
+
 ## Engenharia
 
 | Especialização  | MD  |
