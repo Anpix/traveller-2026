@@ -19,3 +19,7 @@ Patente: 2o Sargento
 **Zildo:**
 Personagem: Kraz
 Patente: Cabo
+
+**Jean**
+Personagem: Rex
+Patente: Tenente Coronel
