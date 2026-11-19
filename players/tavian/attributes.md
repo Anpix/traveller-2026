@@ -31,7 +31,7 @@ MD EDU +3
 
 ## Treinamentos
 
-- Motor S = 3/6 semanas
+- Motor S = 5/6 semanas
 
 ## Engenharia
 

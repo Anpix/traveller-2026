@@ -18,7 +18,7 @@ Adquirida nos benefícios de saída
 ## Nave
 
 Manutenção 11.350 x2 = 22.700
-Estrutura: 160 (-16) = 144
+Estrutura: 160
 
 ## Características
 

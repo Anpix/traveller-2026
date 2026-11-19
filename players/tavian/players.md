@@ -1,16 +1,8 @@
 # Players
 
-**Erick:**
-Personagem: Damian Harkness
-Patente: Coronel
-
 **Hevid:**
 Personagem: Stan Lee
 Patente: 1o Tenente
-
-**Larissa:**
-Personagem: Olive Sanches
-Patente: 3o Tenente
 
 **Andrew:**
 Personagem: Alexander Hoffman
@@ -23,3 +15,17 @@ Patente: Cabo
 **Jean**
 Personagem: Rex
 Patente: Tenente Coronel
+
+**Nicolas:**
+Personagem: Orion
+Patente:
+
+## Out
+
+**Erick:**
+Personagem: Damian Harkness
+Patente: Coronel
+
+**Larissa:**
+Personagem: Olive Sanches
+Patente: 3o Tenente

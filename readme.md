@@ -12,4 +12,7 @@ Campanha de RPG Traveller
 ## Gameplay Sessions
 
 - [Session 00: Character Creation](session-00/player-rafa.md)
-- [Session 01: Kamino Labs + Gonzalez](session-01/gameplay.md)
+- [Session 01: Kamino Labs + Gonzalez](sessions/gameplay-session-01.md)
+- [Session 02: Briga no bar + Fuga](sessions/gameplay-session-02.md)
+- [Session 03: Ir pra nave + Bicho](sessions/gameplay-session-03.md)
+- [Session 04: Conserto da nave](sessions/gameplay-session-04.md)

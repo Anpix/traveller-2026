@@ -145,4 +145,4 @@ Session 3
 - Doutor tenta fechar as pontas e encerrar os procedimentos da nave de compensar a descompressão, para não descartar os pressões.
 - Desce na escotilha, e ela se fecha. A voz da nave de novo fala "vem Doutor, pode vir". Tavian pede pra ela ligar as luzes.
 - Tavian chega numa sala úmida, cheia de coisas gosmentas, e algo como uma planta viva de carne.
-- Numa mesa desta sala está o corpo da Dra Coelho, com um aberto.
+- Numa mesa desta sala está o corpo da Dra Coelho, com um buraco fatal aberto na barriga.
